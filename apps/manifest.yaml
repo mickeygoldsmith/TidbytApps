@@ -1,0 +1,7 @@
+---
+id: rss-reader
+name: RSS Reader_Hebrew
+summary: RSS Feed Reader with Hebrew
+desc: Displays entries from an RSS feed URL.
+author: Michael Goldsmith
+recommended_interval: 10
